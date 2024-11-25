@@ -1,0 +1,14 @@
+G:\3kyrs\1sem\c#lab\CommandPattern\bin\Debug\net8.0\CommandPattern.exe
+G:\3kyrs\1sem\c#lab\CommandPattern\bin\Debug\net8.0\CommandPattern.deps.json
+G:\3kyrs\1sem\c#lab\CommandPattern\bin\Debug\net8.0\CommandPattern.runtimeconfig.json
+G:\3kyrs\1sem\c#lab\CommandPattern\bin\Debug\net8.0\CommandPattern.dll
+G:\3kyrs\1sem\c#lab\CommandPattern\bin\Debug\net8.0\CommandPattern.pdb
+G:\3kyrs\1sem\c#lab\CommandPattern\obj\Debug\net8.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\3kyrs\1sem\c#lab\CommandPattern\obj\Debug\net8.0\CommandPattern.AssemblyInfoInputs.cache
+G:\3kyrs\1sem\c#lab\CommandPattern\obj\Debug\net8.0\CommandPattern.AssemblyInfo.cs
+G:\3kyrs\1sem\c#lab\CommandPattern\obj\Debug\net8.0\CommandPattern.csproj.CoreCompileInputs.cache
+G:\3kyrs\1sem\c#lab\CommandPattern\obj\Debug\net8.0\CommandPattern.dll
+G:\3kyrs\1sem\c#lab\CommandPattern\obj\Debug\net8.0\refint\CommandPattern.dll
+G:\3kyrs\1sem\c#lab\CommandPattern\obj\Debug\net8.0\CommandPattern.pdb
+G:\3kyrs\1sem\c#lab\CommandPattern\obj\Debug\net8.0\CommandPattern.genruntimeconfig.cache
+G:\3kyrs\1sem\c#lab\CommandPattern\obj\Debug\net8.0\ref\CommandPattern.dll
